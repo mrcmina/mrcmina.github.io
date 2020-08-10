@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forest Resilience, Network analysis, Functional traits, Dynamic modelling | Marco Mina</title>
+    <link>https://mrcmina.github.io/tag/forest-resilience-network-analysis-functional-traits-dynamic-modelling/</link>
+      <atom:link href="https://mrcmina.github.io/tag/forest-resilience-network-analysis-functional-traits-dynamic-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forest Resilience, Network analysis, Functional traits, Dynamic modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Forest Resilience, Network analysis, Functional traits, Dynamic modelling</title>
+      <link>https://mrcmina.github.io/tag/forest-resilience-network-analysis-functional-traits-dynamic-modelling/</link>
+    </image>
+    
+    <item>
+      <title>REDEFiNE</title>
+      <link>https://mrcmina.github.io/project/redefine/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/project/redefine/</guid>
+      <description>&lt;h2 id=&#34;project-duration&#34;&gt;Project duration&lt;/h2&gt;
+&lt;p&gt;2018 - ongoing&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;REDEFiNE: REsilience Diversity landscapE Forest NEtwork&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The increasing frequency, intensity, and uncertainty of high-impact disturbance events due to global change are negatively impacting our ability to predict and manage forest growth and dynamics, therefore challenging the capacity to maintain ecological resilience and ecosystem services from forests worldwide. Forest ecosystems are complex adaptive systems, thus a multi-scale perspective and &lt;strong&gt;integrated landscape management&lt;/strong&gt; approaches are needed to manage forests under increasing socio-ecological changes. One way to make forests more resilient to future threads is to increase functional diversity and redundancy at stand scale, and to optimize functional connectivity, centrality and modularity of forest patches in large fragmented landscapes. All this requires model-based evaluations of future landscape trajectories and a detailed analysis of the forested landscape as a &lt;strong&gt;functional complex network&lt;/strong&gt;. 
+This project aims at coupling &lt;strong&gt;simulation modelling&lt;/strong&gt; with methods based on &lt;strong&gt;functional diversity&lt;/strong&gt; and &lt;strong&gt;network analysis&lt;/strong&gt; to determine strategic interventions at stand and landscape scale to maximize the resilience of the forests to known and unknown disturbances with the minimum effort.&lt;/p&gt;
+&lt;p&gt;We work with the spatially-explicit forest landscape model 
+&lt;a href=&#34;http://www.landis-ii.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANDIS-II&lt;/a&gt;  with the physiologically-based extension 
+&lt;a href=&#34;http://www.landis-ii.org/extensions/pnet-succession&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PnET-Succession&lt;/a&gt; , upscaling biochemical processes (e.g., photosynthesis, transpiration) from stand (1 ha) to landscape scale (&amp;gt;1M ha). We model forest landscape and disturbance dynamics in southern Quebec, testing alternative forest management strategies to increase forest resilience to changing climate and disturbance regimes.&lt;/p&gt;
+&lt;p&gt;The project follows three main research steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;to couple process-based models of stand- and landscape-scale of forest dynamics with functional diversity and network theory;&lt;/li&gt;
+&lt;li&gt;to evaluate multi-scale forest management options to maintain and increase resilience under scenarios of climate and global change (incl. unexpected disturbances),&lt;/li&gt;
+&lt;li&gt;to determine threshold levels of both fragmentation and functional diversity below which the overall resilience of a landscape is threatened under combinations of pulse and press disturbances.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This project will test novel and innovative ways to implement resilience-based forest management for large fragmented forest landscapes that are typical of temperate ecosystems.&lt;/p&gt;
+&lt;p&gt;The project has been financed in 2018-2019 via a career funding scheme awarded to Marco Mina by the 
+&lt;a href=&#34;http://www.snf.ch/en/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swiss National Science Foundation&lt;/a&gt;  (Postdoc Mobility 
+&lt;a href=&#34;http://p3.snf.ch/project-175101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant N. 175101&lt;/a&gt;). The project is continuing thanks to funding by the 
+&lt;a href=&#34;https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=4449&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canada Research Chair in Forest Resilience to Global Changes&lt;/a&gt; awarded to 
+&lt;a href=&#34;http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian Messier&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;partners-and-collaborators&#34;&gt;Partners and collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cef-cfr.ca/index.php?n=Membres.NuriaAquilueJunyent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nuria Aquiluè&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;Université du Québec à Montréal UQAM and Forest Sciences and Technology Centre of Catalonia CTFC, Solsona, Spain&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Christian Messier&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;Université du Québec à Montréal UQAM and Université du Québec en Outauais ISFORT-UQO&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://necmusic.edu/faculty/matthew-duveneck-phd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Matthew Duveneck&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;New England Conservatory&amp;rsquo;s liberal arts&lt;/em&gt; &amp;amp; &lt;em&gt;Harvard Forest, Petersham MA&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://fortin.eeb.utoronto.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Marie Joseè Fortin&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;University of Toronto&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-publications&#34;&gt;Key publications&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mina M&lt;/strong&gt;, Messier C, Duveneck M, Fortin MJ and Aquilué N (2020). 
+&lt;a href=&#34;https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/&#34;&gt;&lt;em&gt;Network analysis can guide resilience-based management in forest landscapes under global change&lt;/em&gt;&lt;/a&gt;. Ecological Applications. Accepted. &lt;strong&gt;Coming soon!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Messier C, Bauhus J, Doyon F, Maure F, Sousa-Silva R, Nolet P, &lt;strong&gt;Mina M&lt;/strong&gt;, Aquilué N, Fortin MJ and Puettmann K (2019). 
+&lt;a href=&#34;https://mrcmina.github.io/publication/messier_et-al_2019_forecosy/&#34;&gt;&lt;em&gt;The functional complex network approach to foster forest resilience to global changes&lt;/em&gt;&lt;/a&gt;. Forest Ecosystems 6:21. Summarized in the 
+&lt;a href=&#34;https://resilience-blog.com/2019/04/11/managing-forests-functional-complex-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EFI Resilience Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

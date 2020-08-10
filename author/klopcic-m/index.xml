@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klopcic M. | Marco Mina</title>
+    <link>https://mrcmina.github.io/author/klopcic-m./</link>
+      <atom:link href="https://mrcmina.github.io/author/klopcic-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Klopcic M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Klopcic M.</title>
+      <link>https://mrcmina.github.io/author/klopcic-m./</link>
+    </image>
+    
+    <item>
+      <title>The prospects of silver fir (Abies alba Mill.) and Norway spruce (Picea abies (L.) Karst) in mixed mountain forests under various management strategies, climate change and high browsing pressure</title>
+      <link>https://mrcmina.github.io/publication/klopcic_et-al_2017_ejfr/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/klopcic_et-al_2017_ejfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future ecosystem services from European mountain forests under climate change</title>
+      <link>https://mrcmina.github.io/publication/mina_et-al_2017_jappeco/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_et-al_2017_jappeco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate modeling of harvesting is key for projecting future forest dynamics: a case study in the Slovenian mountains</title>
+      <link>https://mrcmina.github.io/publication/mina_et-al_2017_reec/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_et-al_2017_reec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Marco Mina</title>
+    <link>https://mrcmina.github.io/publication-type/4/</link>
+      <atom:link href="https://mrcmina.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://mrcmina.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Fruizione futura dei servizi ecosistemici. Prospettive in funzione dei cambiamenti climatici e della gestione nelle foreste montane</title>
+      <link>https://mrcmina.github.io/publication/mina_2019_sherwood/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_2019_sherwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARANGE D2.1 Improved and tested forest models for case study regions</title>
+      <link>https://mrcmina.github.io/publication/mina_bugmann_2013/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_bugmann_2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

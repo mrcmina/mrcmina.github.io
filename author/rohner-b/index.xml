@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohner B. | Marco Mina</title>
+    <link>https://mrcmina.github.io/author/rohner-b./</link>
+      <atom:link href="https://mrcmina.github.io/author/rohner-b./index.xml" rel="self" type="application/rss+xml" />
+    <description>Rohner B.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Rohner B.</title>
+      <link>https://mrcmina.github.io/author/rohner-b./</link>
+    </image>
+    
+    <item>
+      <title>The symmetry of competitive interactions in mixed Norway spruce , silver fir and European beech forests</title>
+      <link>https://mrcmina.github.io/publication/mina_et-al_2018_jvegsci/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_et-al_2018_jvegsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixing effects in norway spruce-european beech stands are modulated by site quality, stand age and moisture availability</title>
+      <link>https://mrcmina.github.io/publication/houpert_et-al_2018_forests/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/houpert_et-al_2018_forests/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
