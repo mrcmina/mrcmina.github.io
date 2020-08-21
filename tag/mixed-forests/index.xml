@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixed Forests | Marco Mina</title>
+    <link>https://mrcmina.github.io/tag/mixed-forests/</link>
+      <atom:link href="https://mrcmina.github.io/tag/mixed-forests/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mixed Forests</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Mixed Forests</title>
+      <link>https://mrcmina.github.io/tag/mixed-forests/</link>
+    </image>
+    
+    <item>
+      <title>SWISS-SPEMIXMOD</title>
+      <link>https://mrcmina.github.io/project/spemixmod/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/project/spemixmod/</guid>
+      <description>&lt;h2 id=&#34;project-duration&#34;&gt;Project duration&lt;/h2&gt;
+&lt;p&gt;2016-2018 (completed)&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Integrating Species Mixtures in Tree Growth Functions for Forest Development Models in Switzerland (Swiss-SpeMixMod)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The interest for &lt;strong&gt;mixed-species forests&lt;/strong&gt; has been rising during the past years. There is a broad consensus that forests with higher species diversity are likely to be more adaptable to climate change, resilient to disturbances and provider of a higher level of ecosystem services. Although several studies showed that under certain conditions mixed-species forests can be more productive than single-species stands, the representation of species interactions in empirical forest scenario models has not received much attention so far.&lt;/p&gt;
+&lt;p&gt;The main objective of this project is to investigate methodologies for &lt;strong&gt;quantifying the effects of species mixtures&lt;/strong&gt; on tree growth along Switzerland’s environmental gradients, and to prepare this knowledge for the use in forest scenario calculations. The project comprises of three major parts: (1) a systematic, descriptive analysis of data from the Swiss National Forest Inventory (NFI) to provide an overview of the &lt;strong&gt;frequency and the distribution of pure and mixed forests in Switzerland&lt;/strong&gt;; (2) quantification of &lt;strong&gt;mixing effects&lt;/strong&gt; with nonlinear mixed-effect models fitted to NFI data and their variability with climatic, edaphic, stand and site conditions, as well as with species composition, across Switzerland’s environmental gradient; (3) identification of the different &lt;strong&gt;modes of intra- and inter-specific interactions&lt;/strong&gt; using competition indices in Swiss mixed-species forests and their integration in growth functions.&lt;/p&gt;
+&lt;p&gt;The project  advances the understanding of the effects of species mixtures on tree growth under a broad range of environmental conditions in Switzerland. Additionally, it prepares this knowledge for further development of state-of-the-art forest scenario models, which are crucial tools for estimating potential wood supply and for supporting management decisions.&lt;/p&gt;
+&lt;p&gt;The project has been carried out by researchers at the 
+&lt;a href=&#34;https://www.wsl.ch/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swiss Federal Institute for Forest, Snow and Landscape Research WSL&lt;/a&gt;, Birmesdorf, Switzerland. Part of the project was developed in partnership with 
+&lt;a href=&#34;http://www.inia.es/IniaPortal/verPresentacionIngles.action&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INIA Madrid&lt;/a&gt;, Spain who hosted &lt;em&gt;Marco Mina&lt;/em&gt; for a research stay in January and May 2017.&lt;/p&gt;
+&lt;p&gt;The project has been supported by a grant from the Swiss State Secretariat for Education, Research and Innovation (SERI) under the framework of the COST Action FP1206 EuMIXFOR of the European Union.&lt;/p&gt;
+&lt;h2 id=&#34;partners-and-collaborators&#34;&gt;Partners and collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.wsl.ch/en/employees/thuerig.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Esther Thurig&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;WSL Birmensdorf&lt;/em&gt; -  project lead&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.wsl.ch/en/employees/rohnerb.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Brigitte Rohner&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;WSL Birmensdorf&lt;/em&gt; - deputy project lead&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markus Huber&lt;/strong&gt;, &lt;em&gt;WSL Birmensdorf&lt;/em&gt; - project partner&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.wsl.ch/en/employees/brang.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Brang&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;WSL Birmensdorf&lt;/em&gt;  - project partner&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.wsl.ch/en/employees/nikolova.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Petia Simeonova Nikolova&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;WSL Birmensdorf&lt;/em&gt;  - project partner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-publications&#34;&gt;Key publications&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mina M&lt;/strong&gt;, Huber MO, Forrester DI, Thürig E, Rohner B (2018) 
+&lt;a href=&#34;https://mrcmina.github.io/publication/mina_et-al_2018_jecol/&#34;&gt;&lt;em&gt;Multiple factors modulate tree growth complementarity in central European mixed forests&lt;/em&gt;&lt;/a&gt;. Journal of Ecology. 106:1106–1119. Featured in the 
+&lt;a href=&#34;https://jecologyblog.com/2017/09/18/diversity-effects-in-temperate-mixed-forests-are-modulated-by-stand-and-environmental-factors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Ecology Blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mina M&lt;/strong&gt;, Del Rio M, Huber MO, Thürig E, Rohner B (2018) 
+&lt;a href=&#34;https://mrcmina.github.io/publication/mina_et-al_2018_jvegsci/&#34;&gt;&lt;em&gt;The symmetry of competitive interactions in mixed Norway spruce, silver fir and European beech forests&lt;/em&gt;&lt;/a&gt;. Journal of Vegetation Science. 29:775–787. Featured in the 
+&lt;a href=&#34;https://jvsavsblog.org/2018/09/15/the-symmetry-of-competition-a-battle-crown-to-crown-or-roots-to-roots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Vegetation Science Blog&lt;/a&gt; and in the 
+&lt;a href=&#34;https://resilience-blog.com/2018/10/16/the-symmetry-of-competition-does-the-battle-take-place-above-or-below-our-feet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EFI Resilience Blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nikolova, P.S.; Rohner, B.; Zell, J.; Brang, P., (2019) 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0378112719302373?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tree species dynamics in Swiss forests as affected by site, stand and management: a retrospective analysis&lt;/a&gt;. Forest Ecology and Management, 448: 278-293.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

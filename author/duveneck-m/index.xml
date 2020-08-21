@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duveneck M. | Marco Mina</title>
+    <link>https://mrcmina.github.io/author/duveneck-m./</link>
+      <atom:link href="https://mrcmina.github.io/author/duveneck-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Duveneck M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Duveneck M.</title>
+      <link>https://mrcmina.github.io/author/duveneck-m./</link>
+    </image>
+    
+    <item>
+      <title>Network analysis can guide resilience-based management in forest landscapes under global change</title>
+      <link>https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

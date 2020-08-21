@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Marco Mina</title>
+    <link>https://mrcmina.github.io/talk/</link>
+      <atom:link href="https://mrcmina.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mrcmina.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Coupling simulation modelling with network theory to evaluate resilience to global change in fragmented forest landscapes</title>
+      <link>https://mrcmina.github.io/talk/iale_2020/</link>
+      <pubDate>Mon, 11 May 2020 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/iale_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing forest landscapes as functional complex networks- a way to enhance resilience to climate change and disturbances</title>
+      <link>https://mrcmina.github.io/talk/potsdam_mar20/</link>
+      <pubDate>Tue, 03 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/potsdam_mar20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest landscapes as functional complex networks - a new approach to increase multi-scale resilience to global change</title>
+      <link>https://mrcmina.github.io/talk/wsl_feb20/</link>
+      <pubDate>Fri, 28 Feb 2020 11:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/wsl_feb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future trajectories in fragmented forest landscapes - linking simulation modelling with the functional complex network approach</title>
+      <link>https://mrcmina.github.io/talk/bonn_feb20/</link>
+      <pubDate>Wed, 26 Feb 2020 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/bonn_feb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest Planning 2.0. Foreseeing forest futures to aid management decisions</title>
+      <link>https://mrcmina.github.io/talk/harvard_forest_dec19/</link>
+      <pubDate>Fri, 13 Dec 2019 11:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/harvard_forest_dec19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling forest dynamics - From stand to landscape</title>
+      <link>https://mrcmina.github.io/talk/unilleida_nov19/</link>
+      <pubDate>Mon, 18 Nov 2019 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/unilleida_nov19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest dynamics, management and ecosystem services in European forests</title>
+      <link>https://mrcmina.github.io/talk/uoft_oct19/</link>
+      <pubDate>Fri, 18 Oct 2019 11:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/uoft_oct19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest dynamics, management and ecosystem services in European forests</title>
+      <link>https://mrcmina.github.io/talk/uqam_sep19/</link>
+      <pubDate>Thu, 26 Sep 2019 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/uqam_sep19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing forest landscapes as functional complex networks to increase resilience - a simulation study</title>
+      <link>https://mrcmina.github.io/talk/iale_2019/</link>
+      <pubDate>Mon, 01 Jul 2019 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/iale_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling forest dynamics - From stand to landscape</title>
+      <link>https://mrcmina.github.io/talk/unilleida_nov18/</link>
+      <pubDate>Thu, 13 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/unilleida_nov18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling tree-community and landscape models with functional diversity and network theories for resilience-based forest management</title>
+      <link>https://mrcmina.github.io/talk/esa_aug19/</link>
+      <pubDate>Fri, 03 Aug 2018 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/esa_aug19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species mixing in growth functions for forest development models - final outcomes of the Swiss-SpeMixMod project</title>
+      <link>https://mrcmina.github.io/talk/wsl_nov17/</link>
+      <pubDate>Wed, 15 Nov 2017 13:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/wsl_nov17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation of species mixing in growth functions for forest development models</title>
+      <link>https://mrcmina.github.io/talk/potsdam_oct17/</link>
+      <pubDate>Mon, 09 Oct 2017 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/potsdam_oct17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling species mixture effects on individual-tree growth using Swiss National Forest Inventory data</title>
+      <link>https://mrcmina.github.io/talk/freiburg_oct17/</link>
+      <pubDate>Mon, 18 Sep 2017 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/freiburg_oct17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Swiss-SpeMixMod project - studying mixing effects using forest inventory data</title>
+      <link>https://mrcmina.github.io/talk/wsl_jun17/</link>
+      <pubDate>Mon, 26 Jun 2017 11:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/wsl_jun17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual tree growth complementarity in Swiss forests varies with mixture types, climate and stand conditions</title>
+      <link>https://mrcmina.github.io/talk/inia_jan17/</link>
+      <pubDate>Fri, 20 Jan 2017 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/inia_jan17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating effects of species mixture into individual-tree growth models based on national forest inventory data</title>
+      <link>https://mrcmina.github.io/talk/prague_oct16/</link>
+      <pubDate>Wed, 05 Oct 2016 09:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/prague_oct16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

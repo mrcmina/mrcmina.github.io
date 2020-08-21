@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Marco Mina</title>
+    <link>https://mrcmina.github.io/publication-type/7/</link>
+      <atom:link href="https://mrcmina.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://mrcmina.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Forest dynamics, management and ecosystem services: the future of European mountain forests in an era of climate change</title>
+      <link>https://mrcmina.github.io/publication/mina_2016_thesis/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_2016_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
