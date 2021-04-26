@@ -5,12 +5,52 @@
     <link>https://mrcmina.github.io/</link>
       <atom:link href="https://mrcmina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Mina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
       <title>Marco Mina</title>
       <link>https://mrcmina.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Step-by-Step Guide to Initialize and Calibrate Landscape Models - A Case Study in the Mediterranean Mountains</title>
+      <link>https://mrcmina.github.io/publication/suarezmunoz_et-al_2021_frontecolevo/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/suarezmunoz_et-al_2021_frontecolevo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing the Unexpected – Resilient Forest Landscapes to Novel Climate and Insect Outbreak Disturbance Regimes</title>
+      <link>https://mrcmina.github.io/talk/iale_2021/</link>
+      <pubDate>Mon, 12 Apr 2021 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/iale_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating five forest models using multi-decadal inventory data from mountain forests</title>
+      <link>https://mrcmina.github.io/publication/irauschek_et-al_2021_ecolmod/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/irauschek_et-al_2021_ecolmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple-to-use management approach to boost adaptive capacity of forests to global uncertainty</title>
+      <link>https://mrcmina.github.io/publication/aquilue_et-al_2021_foreco/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/aquilue_et-al_2021_foreco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis can guide resilience-based management in forest landscapes under global change</title>
+      <link>https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forest landscapes as functional networks - Novel approaches to manage for resilience</title>
@@ -32,22 +72,6 @@
       <guid>https://mrcmina.github.io/post/ctca_1/</guid>
       <description>&lt;p&gt;A short article about me on the italo-canadian journal &lt;em&gt;Cittadino Canadese&lt;/em&gt; written by Giulia Verticchio / Un breve articolo sul mio percorso di ricerca all&amp;rsquo;estero e integrazione in Canada sul giornale &lt;em&gt;Cittadino Canadese&lt;/em&gt; scritto da Giulia Verticchio&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A simple-to-use management approach to boost adaptive capacity of forests to global uncertainty</title>
-      <link>https://mrcmina.github.io/publication/aquilue_et-al_2021_foreco/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrcmina.github.io/publication/aquilue_et-al_2021_foreco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network analysis can guide resilience-based management in forest landscapes under global change</title>
-      <link>https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -146,8 +170,8 @@ This project aims at coupling &lt;strong&gt;simulation modelling&lt;/strong&gt; 
 &lt;a href=&#34;https://fortin.eeb.utoronto.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Marie Joseè Fortin&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;University of Toronto&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;key-publications&#34;&gt;Key publications&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Mina M&lt;/strong&gt;, Messier C, Duveneck M, Fortin MJ and Aquilué N (2020). 
-&lt;a href=&#34;https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/&#34;&gt;&lt;em&gt;Network analysis can guide resilience-based management in forest landscapes under global change&lt;/em&gt;&lt;/a&gt;. Ecological Applications. 00(00):e02221.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mina M&lt;/strong&gt;, Messier C, Duveneck M, Fortin MJ and Aquilué N (2021). 
+&lt;a href=&#34;https://mrcmina.github.io/publication/mina_et-al_2020_ecolapp/&#34;&gt;&lt;em&gt;Network analysis can guide resilience-based management in forest landscapes under global change&lt;/em&gt;&lt;/a&gt;. Ecological Applications. 31(1):e02221.&lt;/p&gt;
 &lt;p&gt;Aquilué N, Messier C, Martins KT, Dumais-Lalonde V, &lt;strong&gt;Mina M&lt;/strong&gt; (2021). 
 &lt;a href=&#34;https://mrcmina.github.io/publication/aquilue_et-al_2021_foreco/&#34;&gt;&lt;em&gt;A simple-to-use management approach to boost forests adaptive capacity to global uncertainty&lt;/em&gt;&lt;/a&gt;. Forest Ecology and Management. 481(118692).&lt;/p&gt;
 &lt;p&gt;Messier C, Bauhus J, Doyon F, Maure F, Sousa-Silva R, Nolet P, &lt;strong&gt;Mina M&lt;/strong&gt;, Aquilué N, Fortin MJ and Puettmann K (2019). 
@@ -672,7 +696,8 @@ This project aims at coupling &lt;strong&gt;simulation modelling&lt;/strong&gt; 
 &lt;a href=&#34;https://mrcmina.github.io/publication/mina_et-al_2017_reec/&#34;&gt;&lt;em&gt;Accurate modeling of harvesting is key for projecting future forest dynamics: a case study in the Slovenian mountains&lt;/em&gt;&lt;/a&gt;. Regional Environmental Change, 17(1), 49–64.&lt;/p&gt;
 &lt;p&gt;Klopčič M, &lt;strong&gt;Mina M&lt;/strong&gt;, Bugmann H, Boncina A. (2017). 
 &lt;a href=&#34;https://mrcmina.github.io/publication/klopcic_et-al_2017_ejfr/&#34;&gt;&lt;em&gt;The prospects of silver fir (Abies alba Mill.) and Norway spruce (Picea abies (L.) Karst) in mixed mountain forests under various management strategies, climate change and high browsing pressure&lt;/em&gt;&lt;/a&gt;. European Journal of Forest Research, 136(5–6), 1071–1090.&lt;/p&gt;
-&lt;p&gt;Irauschek F, Barka I, Bugmann H, Courbaud B, Elkin C, Hlásny T, Klopcic M, &lt;strong&gt;Mina M&lt;/strong&gt;, Rammer W, Lexer MJ. Evaluating five forest models using multi-decadal inventory data from mountain forests. &lt;em&gt;In review&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Irauschek F, Barka I, Bugmann H, Courbaud B, Elkin C, Hlásny T, Klopcic M, &lt;strong&gt;Mina M&lt;/strong&gt;, Rammer W, Lexer MJ. (2021) 
+&lt;a href=&#34;https://mrcmina.github.io/publication/irauschek_et-al_2021_ecolmod/&#34;&gt;&lt;em&gt;Evaluating five forest models using multi-decadal inventory data from mountain forests&lt;/em&gt;&lt;/a&gt;. Ecological Modelling, 445, 109493.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mina M&lt;/strong&gt;, Bugmann H, (2013). 
 &lt;a href=&#34;https://mrcmina.github.io/publication/mina_bugmann_2013/&#34;&gt;&lt;em&gt;ARANGE D2.1 - Improved and tested forest models for case study regions&lt;/em&gt;&lt;/a&gt;. Project deliverable.&lt;/p&gt;
 </description>

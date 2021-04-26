@@ -5,12 +5,20 @@
     <link>https://mrcmina.github.io/talk/</link>
       <atom:link href="https://mrcmina.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://mrcmina.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Managing the Unexpected – Resilient Forest Landscapes to Novel Climate and Insect Outbreak Disturbance Regimes</title>
+      <link>https://mrcmina.github.io/talk/iale_2021/</link>
+      <pubDate>Mon, 12 Apr 2021 10:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/talk/iale_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coupling simulation modelling with network theory to evaluate resilience to global change in fragmented forest landscapes</title>

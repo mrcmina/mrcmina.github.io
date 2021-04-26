@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salazar P.C. | Marco Mina</title>
+    <link>https://mrcmina.github.io/author/salazar-p.c./</link>
+      <atom:link href="https://mrcmina.github.io/author/salazar-p.c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Salazar P.C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://mrcmina.github.io/images/icon_huf353bb36df4d8067ac82d59651618b5a_243756_512x512_fill_lanczos_center_2.png</url>
+      <title>Salazar P.C.</title>
+      <link>https://mrcmina.github.io/author/salazar-p.c./</link>
+    </image>
+    
+    <item>
+      <title>A Step-by-Step Guide to Initialize and Calibrate Landscape Models - A Case Study in the Mediterranean Mountains</title>
+      <link>https://mrcmina.github.io/publication/suarezmunoz_et-al_2021_frontecolevo/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrcmina.github.io/publication/suarezmunoz_et-al_2021_frontecolevo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
